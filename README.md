@@ -62,7 +62,7 @@ Wrote 10 business-focused queries covering approval analysis, segmentation, and 
 
 ### 3. 📊 Power BI Dashboard
 
-![Loan Approval Analysis Dashboard](loan_analysis.png)
+![Loan Approval Analysis Dashboard](loan_dashboard.png)
 
 Built an interactive dashboard with:
 - 4 KPI cards: Total Applicants, Approval Rate, Avg Loan Amount, Credit History Impact
